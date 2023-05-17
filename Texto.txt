@@ -1,0 +1,4 @@
+primera linea
+probar primera linea
+probar segunda linea
+probar copia texto.txt
